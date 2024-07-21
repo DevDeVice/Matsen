@@ -53,7 +53,7 @@ namespace Matsen {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Matsen;V1.0.0.0;component/szwaczkadashboard.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Matsen;component/szwaczkadashboard.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\SzwaczkaDashboard.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -16,7 +16,14 @@ namespace Matsen
         public LoginWindow()
         {
             InitializeComponent();
+            // Generowanie kodu kreskowego dla użytkownika
+            var barcodeGenerator = new BarcodeGenerator();
+            string barcodeText = "123456789";
+            string filePath = @"E:\C#\Matsen\Matsen\barcode.png";
 
+            barcodeGenerator.GenerateBarcode(barcodeText, filePath);
+
+            MessageBox.Show($"Barcode generated and saved to {filePath}");
         }
         private void Window_KeyDown(object sender, KeyEventArgs e)
         {

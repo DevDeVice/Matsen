@@ -145,4 +145,13 @@ E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
 E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\C#\Matsen\Matsen\obj\Debug\net8.0-windows\Matsen.sourcelink.json
-E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\zxing.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\BarcodeStandard.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\SkiaSharp.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
