@@ -138,3 +138,11 @@ E:\C#\Matsen\Matsen\obj\Debug\net8.0-windows\refint\Matsen.dll
 E:\C#\Matsen\Matsen\obj\Debug\net8.0-windows\Matsen.pdb
 E:\C#\Matsen\Matsen\obj\Debug\net8.0-windows\Matsen.genruntimeconfig.cache
 E:\C#\Matsen\Matsen\obj\Debug\net8.0-windows\ref\Matsen.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\C#\Matsen\Matsen\obj\Debug\net8.0-windows\Matsen.sourcelink.json
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\zxing.dll

@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Configuration;
-using YourNamespace.Models;
+using Matsen.Models;
 
-namespace YourNamespace
+namespace Matsen
 {
     public class AppDbContext : DbContext
     {
