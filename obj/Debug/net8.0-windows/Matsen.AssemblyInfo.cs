@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matsen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e710eee51a4497e73083a7ddd5f38346e6aa3b21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17cb2d4f378fd2ac32915cfb806de3b6a40db95b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matsen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matsen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

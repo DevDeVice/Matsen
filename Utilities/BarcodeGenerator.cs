@@ -2,7 +2,7 @@
 using SkiaSharp;
 using BarcodeStandard;
 
-namespace Matsen
+namespace Matsen.Utilities
 {
     public class BarcodeGenerator
     {

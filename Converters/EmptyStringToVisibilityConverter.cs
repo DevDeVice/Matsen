@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-namespace Matsen
+namespace Matsen.Converters
 {
     public class EmptyStringToVisibilityConverter : IValueConverter
     {
