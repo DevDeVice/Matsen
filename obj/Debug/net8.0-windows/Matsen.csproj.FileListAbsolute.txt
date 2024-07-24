@@ -155,3 +155,9 @@ E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dy
 E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
 E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
 E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\C#\Matsen\Matsen\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll

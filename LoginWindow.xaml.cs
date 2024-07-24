@@ -17,7 +17,7 @@ namespace Matsen
         {
             InitializeComponent();
 
-            //TODO generator
+            //TODO generator kodu dla uzytkownika
             /* Generowanie kodu kreskowego dla użytkownika
             var barcodeGenerator = new BarcodeGenerator();
             string barcodeText = "123456789";
